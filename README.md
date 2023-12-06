@@ -28,3 +28,26 @@ Hola @contributors, we invite you to design the TechTerra website, to use your c
 > 
 
 </br>
+
+## 📩**Contribution:**
+
+We welcome your contributions. Please follow the below guidelines while contributing to this project:
+
+1. Fork the repository and clone locally.
+2. Create an upstream remote and sync your local copy before you branch. See detailed instructions [here](https://help.github.com/articles/syncing-a-fork)
+3. Create separate branches for each separate piece of work.
+4. Do the work and commit changes with good commit messages.
+5. Once you are confident in your work, create a pull request to the `main` branch of the upstream repository with proper descriptions explaining what you did and wait until we review it.
+
+> Check out GitHub Flow for more details.
+</br>
+
+## ✒️**Quick Resources:**
+
+Since you have scrolled this far, here are some short resources to give you an edge over others😉:
+
+- [UX Principles](https://lawsofux.com/)
+- [UI Guidlines](https://www.youtube.com/playlist?list=PLDtHAiqIa4wa5MBbE_XDoqY51sAkQnkjt)
+
+</br> 
+
