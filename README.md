@@ -15,6 +15,20 @@ Hola @contributors, we invite you to design the TechTerra website, to use your c
 
 </br>
 
+## ⏳The Design Timeline:
+
+| Task | Duration of Submission | Difficulty Level | Maximum Points |
+| --- | --- | --- | --- |
+| Task 1: UX Task | 14th - 17nd December | Rookie | 10 |
+| Task 2: Logo Design | 17th - 20th December | Advanced | 30 |
+| Task 3: UI Tasks-1 | 20th - 1st January | Advanced | 30 |
+| Task 4: UI Tasks-2 | 1th - 7th January | Advanced | 30 |
+| Task 5: Designing Major Functioning Pages | 7th - 12th January | Expert | 50 |
+
+> The detailed instructions for each task will be mentioned in the respective folders once the submission duration starts. Keep checking for updates about new task releases😉!
+>
+</br>
+
 ## 🧾Common Rules:
 
 - The repository is divided into several tasks. **Each task will be opened subsequently for a limited amount of time and all the submissions have to be made within those allotted days only.** NO submission will be accepted after the allotted time ends. The details for the specific tasks and the time allotted for each can be found in their specific folders.
