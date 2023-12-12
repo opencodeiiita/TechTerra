@@ -19,11 +19,11 @@ Hola @contributors, we invite you to design the TechTerra website, to use your c
 
 | Task | Duration of Submission | Difficulty Level | Maximum Points |
 | --- | --- | --- | --- |
-| Task 1: UX Task | 14th - 17nd December | Rookie | 10 |
-| Task 2: Logo Design | 17th - 20th December | Advanced | 30 |
-| Task 3: UI Tasks-1 | 20th - 1st January | Advanced | 30 |
-| Task 4: UI Tasks-2 | 1th - 7th January | Advanced | 30 |
-| Task 5: Designing Major Functioning Pages | 7th - 12th January | Expert | 50 |
+| Task 1: UX Task | 14th - 17nd December | Beginner | 10 |
+| Task 2: Logo Design | 17th - 20th December | Competitive | 30 |
+| Task 3: UI Tasks-1 | 20th - 1st January | Intermediate | 30 |
+| Task 4: UI Tasks-2 | 1th - 7th January | Intermediate | 30 |
+| Task 5: Designing Major Functioning Pages | 7th - 12th January | Skilled | 50 |
 
 > The detailed instructions for each task will be mentioned in the respective folders once the submission duration starts. Keep checking for updates about new task releases😉!
 >
