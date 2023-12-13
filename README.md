@@ -47,7 +47,7 @@ Hola @contributors, we invite you to design the TechTerra website, to use your c
 
 We welcome your contributions. Please follow the below guidelines while contributing to this project:
 
-1. Fork the repository and clone locally.
+1. Fork and star⭐ the repository and clone locally.
 2. Create an upstream remote and sync your local copy before you branch. See detailed instructions [here](https://help.github.com/articles/syncing-a-fork)
 3. Create separate branches for each separate piece of work.
 4. Do the work and commit changes with good commit messages.
