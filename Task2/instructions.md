@@ -1,1 +1,1 @@
-This Folder is created for Task 2 submissions
+This Folder is created for the Task 2 submissions done by the contributers
