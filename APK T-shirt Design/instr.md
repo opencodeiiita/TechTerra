@@ -1,6 +1,6 @@
 OPEN TO ALL.
 NO need to claim this issue.
-NO submission will be accepted after 25th December, 11:59 PM.
+NO submission will be accepted after 26th December, 11:59 PM.
 
 Your next Small Side Task is designing the APK fest merch. This is a 20 points task.
 
