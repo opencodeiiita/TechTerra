@@ -1,1 +1,0 @@
-All the submissions of the final task will be merged in this folder only. 
